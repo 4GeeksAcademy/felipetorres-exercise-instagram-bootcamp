@@ -1,0 +1,77 @@
+body{
+    background: black;
+}
+.post{
+    width:400px;
+    margin: auto;
+    margin-top: 50px;
+    background: white;
+       
+    
+}
+.post-header{
+    padding: 5px;
+    background: white;
+    display:flex;
+    font-size: 20px;
+}
+.icOnohtml{
+    font-size: 50px;
+    padding: 4px;
+}
+.TitULO{
+    font-size: 20px;
+    padding: 4px;
+    width: 80% ;
+}
+.pUntOS{
+    font-size: 50px;
+    justify-content: flex-end;
+}
+img{
+    width:400px;
+}
+.IconosPadre{
+    display: flex;
+
+}
+.IcoNos{
+    display:flex;
+    justify-content:flex-start;
+    width: 90% ;
+}
+.HijO1{
+    padding:4px;
+    font-size:30px ;
+    
+    
+}
+.HijO2{
+    padding:4px;
+    font-size:30px ;
+    
+    
+}
+.HijO3{
+    padding:4px;
+    font-size: 30px;
+    
+    
+}
+.HijO4{
+    padding:4px;
+    font-size:30px;
+    display: flex;
+    justify-content:flex-end;
+}
+.post-body{
+    padding: 4px;
+}
+.Pmayor{
+    font-size: 15px;
+    padding: 10px;
+}
+.Pmenor{
+    font-size: 15px;
+    padding: 10px;
+}
